@@ -56,8 +56,11 @@ I have experience in optimize operation process for budget management and custom
 
 ## Project showcase
 (Projects in French)
-### Data Visualization: worldwide food study (http://ForTheBadge.com/images/badges/made-with-python.svg)
-- Skills: Data manipulation, 
+### Data Visualization: worldwide food study 
+
+- Skills: Data manipulation, pandas, numpy, seaborn, plotly, ipywidgets, Voilà
+- French project title: Réalisez une étude de santé publique avec Python
+![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 <!--
 **rippleliang/rippleliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
