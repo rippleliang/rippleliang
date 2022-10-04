@@ -21,6 +21,7 @@ I have experience in optimize operation process for budget management and custom
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
+![](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ## Working Experience
 ![](https://img.shields.io/badge/xiaomi%20-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
@@ -39,6 +40,9 @@ I have experience in optimize operation process for budget management and custom
 
 - Market Manager, Greater China
 - 1.5 yrs, Paris Area, France
+
+## Project showcase
+
 
 <!--
 **rippleliang/rippleliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
