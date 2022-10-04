@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xiuting LIANG 👋
 
-<img src="https://github.com/rippleliang/rippleliang/blob/main/github_into.png">
+<img src="https://github.com/rippleliang/rippleliang/blob/main/github_into1.png">
 
 [![](https://img.shields.io/badge/-@XiutingLIANG-%23181717?style=flat-square&logo=github)](https://github.com/rippleliang)
 [![](https://img.shields.io/badge/LinkedIn-Xiuting%20LIANG-blue)](https://www.linkedin.com/in/xiuting-liang/)
