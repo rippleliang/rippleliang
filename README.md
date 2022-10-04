@@ -48,10 +48,10 @@ I have experience in optimize operation process for budget management and custom
 - 1.5 yrs, Paris Area, France
 
 ## Diploma
-•	Diplôme Bac+3/+4, 2022 Data Analyst, OpenClassrooms et L'ENSAE, France
-•	# Master Bac+5 #, 2014 Strategic Event Management and Tourism Management, SKEMA Business School, France
-•	Diplôme Post Graduate, 2012 Hotel Operations Management Swiss Hotel Management School, Suisse
-•	Bachelor Bac+4, 2011 Anglais Traduction et Interprétation, SCAU, Chine
+- Diplôme Bac+3/+4, 2022 Data Analyst, OpenClassrooms et L'ENSAE, France
+- Master Bac+5, 2014 Strategic Event Management and Tourism Management, SKEMA Business School, France
+- Diplôme Post Graduate, 2012 Hotel Operations Management Swiss Hotel Management School, Suisse
+- Bachelor Bac+4, 2011 Anglais Traduction et Interprétation, SCAU, Chine
 
 
 ## Project showcase
