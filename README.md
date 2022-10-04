@@ -1,5 +1,6 @@
 ### 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xiuting LIANG 👋
 
+<img src="https://github.com/rippleliang/rippleliang/blob/main/github_into.png"
 <!--
 **rippleliang/rippleliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
