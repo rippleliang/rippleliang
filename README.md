@@ -30,19 +30,29 @@ I have experience in optimize operation process for budget management and custom
 
 
 ## Working Experience
-![](https://img.shields.io/badge/xiaomi%20-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white) 1.5 yrs, Paris Area, France
+![](https://img.shields.io/badge/xiaomi%20-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white) 
 
 - Market finance & Channel Finance Lead
 - Sales Operation Manager
+- 1.5 yrs, Paris Area, France
 
-![](https://img.shields.io/badge/-Booking.com-blue) 4 yrs, Paris Area, France
+![](https://img.shields.io/badge/-Booking.com-blue)
 
 - Performance Manager EMEA, BookingSuite (SaaS, developing B2B hotel management systems)
 - Revenue Manager APAC, BookingSuite (SaaS, developing B2B hotel management systems)
+- 4 yrs, Paris Area, France
 
-![](https://img.shields.io/badge/-PriceMatch-green) 1.5 yrs, Paris Area, France
+![](https://img.shields.io/badge/-PriceMatch-green) 
 
 - Market Manager, Greater China
+- 1.5 yrs, Paris Area, France
+
+## Diploma
+•	Diplôme Bac+3/+4, 2022 Data Analyst, OpenClassrooms et L'ENSAE, France
+•	# Master Bac+5 #, 2014 Strategic Event Management and Tourism Management, SKEMA Business School, France
+•	Diplôme Post Graduate, 2012 Hotel Operations Management Swiss Hotel Management School, Suisse
+•	Bachelor Bac+4, 2011 Anglais Traduction et Interprétation, SCAU, Chine
+
 
 ## Project showcase
 - 
