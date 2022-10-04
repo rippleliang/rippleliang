@@ -5,6 +5,13 @@
 [![](https://img.shields.io/badge/-@XiutingLIANG-%23181717?style=flat-square&logo=github)](https://github.com/rippleliang)
 [![](https://img.shields.io/badge/LinkedIn-Xiuting%20LIANG-blue)](https://www.linkedin.com/in/xiuting-liang/)
 
+## About me
+A multi-talented person with expertise in Data Analysis, Market Finance & Channel Finance, Operation and Customer Relationship Management, in the past 7 years, I was working in the international teams in Xiaomi, Booking.com and PriceMatch, in Paris, France.
+
+I like to work in the fast-paced, startup environment, with strong communication skills for collaborations among headquarter, area headquarter (EMEA, WEU, APAC) and fast growing local office.
+
+I have experience in optimize operation process for budget management and customer service. I have successfully implemented budget and promotion validation process for country office with self-developed online tools and systems, including business analysis, real-time updated dashboard, rolling forecast, monthly conference report and promotion validation functions. I also have experience in training a new regional team from 0 to more than 20 people, including tasks as building customer service process, monitoring KPI, technical training and task assignment.
+
 ## Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
