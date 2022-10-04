@@ -3,7 +3,7 @@
 <img src="https://github.com/rippleliang/rippleliang/blob/main/github_into1.png">
 
 [![](https://img.shields.io/badge/-@XiutingLIANG-%23181717?style=flat-square&logo=github)](https://github.com/rippleliang)
-[![](https://img.shields.io/badge/LinkedIn-Xiuting%20LIANG-blue)](https://www.linkedin.com/in/xiuting-liang/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiuting-liang/)
 
 ## About me
 A multi-talented person with expertise in Data Analysis, Market Finance & Channel Finance, Operation and Customer Relationship Management, in the past 7 years, I was working in the international teams in Xiaomi, Booking.com and PriceMatch, in Paris, France.
@@ -22,6 +22,9 @@ I have experience in optimize operation process for budget management and custom
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 ## Working Experience
 ![](https://img.shields.io/badge/xiaomi%20-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
