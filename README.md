@@ -5,7 +5,8 @@
 [![](https://img.shields.io/badge/-@XiutingLIANG-%23181717?style=flat-square&logo=github)](https://github.com/rippleliang)
 [![](https://img.shields.io/badge/LinkedIn-Xiuting%20LIANG-blue)](https://www.linkedin.com/in/xiuting-liang/)
 
-
+## Technical Skills
+(https://img.shields.io/badge/python-v3.7-blue)
 <!--
 **rippleliang/rippleliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
