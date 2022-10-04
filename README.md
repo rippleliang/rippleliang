@@ -25,25 +25,20 @@ I have experience in optimize operation process for budget management and custom
 ## Working Experience
 ![](https://img.shields.io/badge/xiaomi%20-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
 
-Market finance & Channel Finance Lead
-
-Sales Operation Manager
-
-1.5 yrs, Paris Area, France
+- Market finance & Channel Finance Lead
+- Sales Operation Manager
+- 1.5 yrs, Paris Area, France
 
 ![](https://img.shields.io/badge/-Booking.com-blue) 
 
-Performance Manager EMEA, BookingSuite (SaaS, developing B2B hotel management systems)
-
-Revenue Manager APAC, BookingSuite (SaaS, developing B2B hotel management systems)
-
-4 yrs, Paris Area, France
+- Performance Manager EMEA, BookingSuite (SaaS, developing B2B hotel management systems)
+- Revenue Manager APAC, BookingSuite (SaaS, developing B2B hotel management systems)
+- 4 yrs, Paris Area, France
 
 ![](https://img.shields.io/badge/-PriceMatch-green)
 
-Market Manager, Greater China
-
-1.5 yrs, Paris Area, France
+-Market Manager, Greater China
+-1.5 yrs, Paris Area, France
 
 <!--
 **rippleliang/rippleliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
