@@ -58,9 +58,18 @@ I have experience in optimize operation process for budget management and custom
 (Projects in French)
 ### Data Visualization: worldwide food study ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Skills: Data manipulation, pandas, numpy, seaborn, plotly, ipywidgets, Voilà
+- Skills: Data manipulation, cleaning data, pandas, numpy, matplotlib, seaborn, plotly, ipywidgets, Voilà
 - French project title: Réalisez une étude de santé publique avec Python
 
+### Data Manipulation: shop's stock, sales and online store data analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
+
+- Skills: Data manipulation, outlierss, clearning data, pandas, numpy, matplotlib, seaborn, ipywidgets
+- French project title: Optimisez la gestion des données d'une boutique avec Python
+
+### In-depth data statistic analysis and statistic test: library sales analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
+
+- Skills: Statistic tests, cleaning data, outliers, moving average, pareto analysis, test chi2, normality test, ANOVA test, Kruskal Wallis test, Pearson test, Spearman test, T-test, Mann-Whitney test
+- French project title: Analysez les ventes d'une librairie avec Python
 
 <!--
 **rippleliang/rippleliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
