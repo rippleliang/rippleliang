@@ -37,8 +37,8 @@ I have experience in optimize operation process for budget management and custom
 
 ![](https://img.shields.io/badge/-PriceMatch-green)
 
--Market Manager, Greater China
--1.5 yrs, Paris Area, France
+- Market Manager, Greater China
+- 1.5 yrs, Paris Area, France
 
 <!--
 **rippleliang/rippleliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
