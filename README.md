@@ -22,6 +22,9 @@ I have experience in optimize operation process for budget management and custom
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
+## Working Experience
+![R](https://img.shields.io/badge/-Booking.com-blue) 
+
 
 <!--
 **rippleliang/rippleliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
