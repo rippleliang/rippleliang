@@ -71,7 +71,7 @@ Techniques:
 - French project title: Détectez des faux billets avec R ou Python
 
 ### Project 4: Machine learning: market analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
-https://github.com/rippleliang/Project-4-Machine-learning-market-analysis/blob/main/README.md
+https://github.com/rippleliang/Project-4-Machine-learning-market-analysis
 
 Techniques: 
 - Machine learning: PCA, Normalization, Kmeans, Hierarchical Classification, Dendrogramme, Elbow method, Silhouette Score Analysis 
