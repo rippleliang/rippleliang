@@ -61,8 +61,10 @@ I have experience in optimize operation process for budget management and custom
 
 Techniques: 
 - Machine learning: 
+
 Treating missing value with Linear Regression, Normalization, Logistic Regression, PCA, Kmeans, Elbow Method, Silhouette Score Analysis, Confusion metrics, Model Validation
 - Data visualization: 
+
 Explain variance ratio, Correlation Circle, Triangle correlation heatmap, 
 - Statistics analysis and test: Normality test,  Q-Q plot, Shapiro-wilk test, homoscedasticity test
 - Library: Statsmodels, Scipy, Sklearn, joblib, 
