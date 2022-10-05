@@ -93,7 +93,7 @@ Techniques:
 - French project title: Analysez les ventes d'une librairie avec Python
 
 ### Project 2: Data Manipulation: shop's stock, sales and online store data analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
-https://github.com/rippleliang/Project-2-Data-Manipulation-shop-s-stock-sales-and-online-store-data-analysis/blob/main/README.md
+https://github.com/rippleliang/Project-2-Data-Manipulation-shop-s-stock-sales-and-online-store-data-analysis
 
 Techniques: 
 - Data manipulation and cleaning data: missing value, duplicate value, outliers
