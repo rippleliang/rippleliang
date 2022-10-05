@@ -94,7 +94,9 @@ Statsmodels, Scipy, Sklearn, Joblib, Pandas, Numpy, Matplotlib, Seaborn, Plotly
 ### Project 2: Data Manipulation: shop's stock, sales and online store data analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 - Techniques: 
-- Data manipulation: outliers, clearning data, pandas, numpy, matplotlib, seaborn, ipywidgets
+- Data manipulation and cleaning data: missing value, duplicate value, outliers
+- Statistic analysis: Interquartile range (IQR) , Z-score
+- Library: pandas, numpy, matplotlib, seaborn, ipywidgets
 - French project title: Optimisez la gestion des données d'une boutique avec Python
 
 ### Project 1: Data Visualization: worldwide food study ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
