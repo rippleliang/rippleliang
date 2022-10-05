@@ -60,8 +60,10 @@ I have experience in optimize operation process for budget management and custom
 ### Project 5: Machine learning: detect forged notes ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 Techniques: 
-- Machine learning: treating missing value with Linear Regression, Normalization, Logistic Regression, PCA, Kmeans, Elbow Method, Silhouette Score Analysis, Confusion metrics, Model Validation
-- Data visualization: Explain variance ratio, Correlation Circle, Triangle correlation heatmap, 
+- Machine learning: 
+Treating missing value with Linear Regression, Normalization, Logistic Regression, PCA, Kmeans, Elbow Method, Silhouette Score Analysis, Confusion metrics, Model Validation
+- Data visualization: 
+Explain variance ratio, Correlation Circle, Triangle correlation heatmap, 
 - Statistics analysis and test: Normality test,  Q-Q plot, Shapiro-wilk test, homoscedasticity test
 - Library: Statsmodels, Scipy, Sklearn, joblib, 
 - Web: streamlit
