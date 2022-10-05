@@ -66,7 +66,9 @@ Treating missing value with Linear Regression, Normalization, Logistic Regressio
 - Data visualization: 
 
 Explain variance ratio, Correlation Circle, Triangle correlation heatmap, 
-- Statistics analysis and test: Normality test,  Q-Q plot, Shapiro-wilk test, homoscedasticity test
+- Statistics analysis and test: 
+- 
+- Normality test,  Q-Q plot, Shapiro-wilk test, homoscedasticity test
 - Library: Statsmodels, Scipy, Sklearn, joblib, 
 - Web: streamlit
 - French project title: Détectez des faux billets avec R ou Python
