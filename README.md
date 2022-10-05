@@ -61,17 +61,13 @@ I have experience in optimize operation process for budget management and custom
 
 Techniques: 
 - Machine learning: 
-
 Treating missing value with Linear Regression, Normalization, Logistic Regression, PCA, Kmeans, Elbow Method, Silhouette Score Analysis, Confusion metrics, Model Validation
 - Data visualization: 
-
 Explain variance ratio, Correlation Circle, Triangle correlation heatmap
 - Statistics analysis and test: 
-
 Normality test,  Q-Q plot, Shapiro-wilk test, Homoscedasticity test
 - Library: 
 Statsmodels, Scipy, Sklearn, Joblib, Pandas, Numpy, Matplotlib, Seaborn, Plotly
-
 - Web: Streamlit
 - French project title: Détectez des faux billets avec R ou Python
 
