@@ -103,5 +103,9 @@ Statsmodels, Scipy, Sklearn, Joblib, Pandas, Numpy, Matplotlib, Seaborn, Plotly
 
 ### Project 1: Data Visualization: worldwide food study ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Techniques: Data manipulation, cleaning data, pandas, numpy, matplotlib, seaborn, plotly, ipywidgets, Voilà
+- Techniques: 
+- Data manipulation and cleaning data: missing value
+- Data visualization: Bar, Pie, dynamic graphs
+- Library: Pandas, Numpy, Matplotlib, Seaborn, Plotly
+- Web: Ipywidgets, Voilà
 - French project title: Réalisez une étude de santé publique avec Python
