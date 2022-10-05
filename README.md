@@ -98,6 +98,7 @@ Statsmodels, Scipy, Sklearn, Joblib, Pandas, Numpy, Matplotlib, Seaborn, Plotly
 - French project title: Optimisez la gestion des données d'une boutique avec Python
 
 ### Project 1: Data Visualization: worldwide food study ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
+https://github.com/rippleliang/Project-1-Data-Visualization-worldwide-food-study
 
 - Techniques: 
 - Data manipulation and cleaning data: missing value
