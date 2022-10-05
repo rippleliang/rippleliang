@@ -65,10 +65,10 @@ Techniques:
 Treating missing value with Linear Regression, Normalization, Logistic Regression, PCA, Kmeans, Elbow Method, Silhouette Score Analysis, Confusion metrics, Model Validation
 - Data visualization: 
 
-Explain variance ratio, Correlation Circle, Triangle correlation heatmap, 
+Explain variance ratio, Correlation Circle, Triangle correlation heatmap
 - Statistics analysis and test: 
 
-Normality test,  Q-Q plot, Shapiro-wilk test, homoscedasticity test
+Normality test,  Q-Q plot, Shapiro-wilk test, Homoscedasticity test
 - Library: 
 Statsmodels, Scipy, Sklearn, Joblib, Pandas, Numpy, Matplotlib, Seaborn, Plotly
 
@@ -77,17 +77,28 @@ Statsmodels, Scipy, Sklearn, Joblib, Pandas, Numpy, Matplotlib, Seaborn, Plotly
 
 ### Project 4: Machine learning: market analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Techniques: Machine learning, PCA, PEST Analysis, Normalization, Kmeans, hierarchical classification, Dendrogramme, Elbow method, Silhouette score analysis, Geopandas, Explain variance ratio, correlation circle, Heatmap, Statistic tests, normality test, Levene test, Shapiro-wilk test, statsmodels, scipy, sklearn
+- Techniques: 
+- Machine learning: PCA, Normalization, Kmeans, Hierarchical Classification, Dendrogramme, Elbow method, Silhouette Score Analysis 
+- Data visualization: Geopandas, Explain variance ratio, correlation circle, Heatmap, Triangle correlation heatmap
+- Statistic analysis and test: Normality test, Levene test, Shapiro-wilk test
+- Library: Scipy, Sklearn, Pandas, Pylab, Geoplot, Geopandas, Numpy, Matplotlib, Seaborn, Plotly
+- Business Analysis: PEST Analysis
 - French project title: Produisez une étude de marché avec Python
 
 ### Project 3: In-depth data statistic analysis and statistic test: library sales analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Techniques: Statistic tests, cleaning data, outliers, moving average, pareto analysis, test chi2, normality test, ANOVA test, Kruskal Wallis test, Pearson test, Spearman test, T-test, Mann-Whitney test
+- Techniques: 
+- Data Clearning: Outliers, Missing value, Datetime
+- Statistic test: Chi2 Test, Normality test, Q-Q plot, Kolmogorov-Smirnov test, ANOVA test, Kruskal Wallis test, Pearson test, Spearman test, T-test, Mann-Whitney U rank test
+- Statistic analysis: Moving average, Pareto analysis (20-80), Pyramid analysis, Lorenz Curve, Correlation
+- Business analysis: Revenue analysis, customer profile
+- Library: Scipy, Statsmodels, Pandas, Pylab, Numpy, Matplotlib, Seaborn, Plotly
 - French project title: Analysez les ventes d'une librairie avec Python
 
 ### Project 2: Data Manipulation: shop's stock, sales and online store data analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Techniques: Data manipulation, outlierss, clearning data, pandas, numpy, matplotlib, seaborn, ipywidgets
+- Techniques: 
+- Data manipulation: outliers, clearning data, pandas, numpy, matplotlib, seaborn, ipywidgets
 - French project title: Optimisez la gestion des données d'une boutique avec Python
 
 ### Project 1: Data Visualization: worldwide food study ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
