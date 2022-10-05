@@ -59,25 +59,30 @@ I have experience in optimize operation process for budget management and custom
 
 ### Project 5: Machine learning: detect forged notes ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Skills: Machine learning, treating missing value with linear regression, Normalization, logistic regression, PCA, Kmeans, Elbow method, Silhouette score analysis, Geopandas, Explain variance ratio, correlation circle, Heatmap, Statistic tests, normality test, confusion metrics, statsmodels, scipy, sklearn, joblib, streamlit
+Techniques: 
+- Machine learning: treating missing value with Linear Regression, Normalization, Logistic Regression, PCA, Kmeans, Elbow Method, Silhouette Score Analysis, Confusion metrics, Model Validation
+- Data visualization: Explain variance ratio, Correlation Circle, Triangle correlation heatmap, 
+- Statistics analysis and test: Normality test,  Q-Q plot, Shapiro-wilk test, homoscedasticity test
+- Library: Statsmodels, Scipy, Sklearn, joblib, 
+- Web: streamlit
 - French project title: Détectez des faux billets avec R ou Python
 
 ### Project 4: Machine learning: market analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Skills: Machine learning, PCA, PEST Analysis, Normalization, Kmeans, hierarchical classification, Dendrogramme, Elbow method, Silhouette score analysis, Geopandas, Explain variance ratio, correlation circle, Heatmap, Statistic tests, normality test, Levene test, Shapiro-wilk test, statsmodels, scipy, sklearn
+- Techniques: Machine learning, PCA, PEST Analysis, Normalization, Kmeans, hierarchical classification, Dendrogramme, Elbow method, Silhouette score analysis, Geopandas, Explain variance ratio, correlation circle, Heatmap, Statistic tests, normality test, Levene test, Shapiro-wilk test, statsmodels, scipy, sklearn
 - French project title: Produisez une étude de marché avec Python
 
 ### Project 3: In-depth data statistic analysis and statistic test: library sales analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Skills: Statistic tests, cleaning data, outliers, moving average, pareto analysis, test chi2, normality test, ANOVA test, Kruskal Wallis test, Pearson test, Spearman test, T-test, Mann-Whitney test
+- Techniques: Statistic tests, cleaning data, outliers, moving average, pareto analysis, test chi2, normality test, ANOVA test, Kruskal Wallis test, Pearson test, Spearman test, T-test, Mann-Whitney test
 - French project title: Analysez les ventes d'une librairie avec Python
 
 ### Project 2: Data Manipulation: shop's stock, sales and online store data analysis ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Skills: Data manipulation, outlierss, clearning data, pandas, numpy, matplotlib, seaborn, ipywidgets
+- Techniques: Data manipulation, outlierss, clearning data, pandas, numpy, matplotlib, seaborn, ipywidgets
 - French project title: Optimisez la gestion des données d'une boutique avec Python
 
-### Project 1: Data Visualization: worldwide food study ![](http://ForTheBadge.com/images/badges/made-with-python.svg)11
+### Project 1: Data Visualization: worldwide food study ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-- Skills: Data manipulation, cleaning data, pandas, numpy, matplotlib, seaborn, plotly, ipywidgets, Voilà
+- Techniques: Data manipulation, cleaning data, pandas, numpy, matplotlib, seaborn, plotly, ipywidgets, Voilà
 - French project title: Réalisez une étude de santé publique avec Python
