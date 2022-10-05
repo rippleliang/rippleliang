@@ -96,6 +96,7 @@ Statsmodels, Scipy, Sklearn, Joblib, Pandas, Numpy, Matplotlib, Seaborn, Plotly
 - Techniques: 
 - Data manipulation and cleaning data: missing value, duplicate value, outliers
 - Statistic analysis: Interquartile range (IQR) , Z-score
+- Business analysis: Stock, sales and online store data analysis
 - Library: pandas, numpy, matplotlib, seaborn, ipywidgets
 - French project title: Optimisez la gestion des données d'une boutique avec Python
 
